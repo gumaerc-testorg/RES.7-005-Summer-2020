@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/framing-discussion_edited_processed.pdf
+file_size: 497196
 file_type: application/pdf
 image_metadata:
   caption: ''
