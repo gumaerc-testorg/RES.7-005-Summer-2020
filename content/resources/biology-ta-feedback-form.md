@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/biology-ta-feedback-form.pdf
+file_size: 111987
 file_type: application/pdf
 image_metadata:
   caption: ''

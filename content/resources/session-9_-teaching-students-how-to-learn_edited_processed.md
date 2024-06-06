@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/session-9_-teaching-students-how-to-learn_edited_processed.pdf
+file_size: 193911
 file_type: application/pdf
 image_metadata:
   caption: ''
