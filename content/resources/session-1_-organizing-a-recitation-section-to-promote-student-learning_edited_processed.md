@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/session-1_-organizing-a-recitation-section-to-promote-student-learning_edited_processed.pdf
+file: /ol-ocw-studio-app/courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/session-1_-organizing-a-recitation-section-to-promote-student-learning_edited_processed.pdf
 file_size: 412251
 file_type: application/pdf
 image_metadata:
