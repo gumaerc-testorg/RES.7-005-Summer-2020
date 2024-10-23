@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/session-2_-keeping-students-engaged_edited_processed.pdf
+file: /ol-ocw-studio-app/courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/session-2_-keeping-students-engaged_edited_processed.pdf
 file_size: 277503
 file_type: application/pdf
 image_metadata:
