@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/session-2_-active-learning-activities-breakout-groups.pdf
+file: courses/biology-teaching-assistant-ta-training/session-2_-active-learning-activities-breakout-groups.pdf
 file_size: 24472
 file_type: application/pdf
 image_metadata:
