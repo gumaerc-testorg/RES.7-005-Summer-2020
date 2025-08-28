@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/biology-teaching-assistant-ta-training/framing-discussion_edited_processed.pdf
+file: /ol-ocw-studio-app/courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/framing-discussion_edited_processed.pdf
 file_size: 497196
 file_type: application/pdf
 image_metadata:
