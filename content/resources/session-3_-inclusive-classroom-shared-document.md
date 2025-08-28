@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/biology-teaching-assistant-ta-training/session-3_-inclusive-classroom-shared-document.pdf
+file: /ol-ocw-studio-app/courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/session-3_-inclusive-classroom-shared-document.pdf
 file_size: 25332
 file_type: application/pdf
 image_metadata:

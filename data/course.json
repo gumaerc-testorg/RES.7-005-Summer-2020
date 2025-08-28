@@ -24,6 +24,8 @@
     "website": "biology-teaching-assistant-ta-training"
   },
   "course_title": "Biology Teaching Assistant (TA) Training",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "The MIT Biology Department supports TAs' teaching by providing a specialized Teaching Assistant (TA) training program in Biology Pedagogy, for which TAs can earn a training certificate. This program has been developed in response to the feedback of previous TAs, and is designed to actively meet each TA's needs as they are teaching. It provides practical knowledge that directly relates to their teaching responsibilities each week, and provides them with the opportunity to practice different skills and techniques in a supportive environment.",
   "department_numbers": [
     "7"
@@ -36,8 +38,10 @@
   },
   "learning_resource_types": [
     "Activity Assignments with Examples",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Podcasts"
   ],
   "site_uid": "593313c9-3aed-45d9-842c-b0a39d0b674b",
-  "site_short_id": "RES.7-005-Summer-2020"
+  "site_short_id": "RES.7-005-Summer-2020",
+  "site_url_path": "courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021"
 }
