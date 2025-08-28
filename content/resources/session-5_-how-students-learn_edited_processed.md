@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/biology-teaching-assistant-ta-training/session-5_-how-students-learn_edited_processed.pdf
+file: /ol-ocw-studio-app/courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/session-5_-how-students-learn_edited_processed.pdf
 file_size: 169683
 file_type: application/pdf
 image_metadata:
