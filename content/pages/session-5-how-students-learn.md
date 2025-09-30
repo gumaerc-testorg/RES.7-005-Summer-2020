@@ -14,7 +14,7 @@ uid: 010a645f-e0b6-465c-b6db-f538efd0b386
 
 ## Paper for discussion
 
-Rosenshine, B. (2012) Principles of instruction: Research-based strategies that all teachers should know. *American Educator* 36(1):12-19.  [https://files.eric.ed.gov/fulltext/EJ971753.pdf](https://files.eric.ed.gov/fulltext/EJ971753.pdf)
+Rosenshine, B. (2012) Principles of instruction: Research-based strategies that all teachers should know. *American Educator* 36(1):12-19.  {{% resource_link "4078b7ab-08b8-4b9d-becb-cfde118b962b" "https://files.eric.ed.gov/fulltext/EJ971753.pdf" %}}
 
 \*Note: TAs do not need to read this paper ahead of time.
 
